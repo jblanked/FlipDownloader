@@ -11,7 +11,7 @@ Download apps and assets directly to your Flipper Zero using WiFi. This app is n
 - Install Flipper Firmware (coming soon)
 
 ## Installation
-1. Flash your WiFi Dveloper Board or Raspberry Pi Pico W: https://github.com/jblanked/FlipperHTTP
+1. Flash your WiFi Developer Board or Raspberry Pi Pico W: https://github.com/jblanked/FlipperHTTP
 2. Install the app.
 3. Enjoy :D
 
